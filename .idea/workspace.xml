@@ -4,11 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0c5a4d9-7585-48f5-a3bc-8d21017789b7" name="Changes" comment="Starter Project" />
+    <list default="true" id="f0c5a4d9-7585-48f5-a3bc-8d21017789b7" name="Changes" comment="add Program Kalkulator Sederhana.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Sandi Morse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Raw String(“““).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String Templates.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String tipe data(operator).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Underscore.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhiteSpace.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/readline2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tipedata.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/val.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/var.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variabel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,13 +45,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Kotlin.Penerapan_stringKt">
+    <configuration name="KomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KomentarKt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Penerapan_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Penerapan_stringKt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program_Sandi_MorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_Sandi_MorseKt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiteSpaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhiteSpaceKt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Penerapan_stringKt" />
+        <item itemvalue="Kotlin.Program_Sandi_MorseKt" />
+        <item itemvalue="Kotlin.VariabelKt" />
+        <item itemvalue="Kotlin.KomentarKt" />
+        <item itemvalue="Kotlin.WhiteSpaceKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +114,112 @@
       <option name="project" value="LOCAL" />
       <updated>1725877579294</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Starter Project">
+      <created>1725878187002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725878187002</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add blok.kt">
+      <created>1725931680168</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931680168</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add boolean.kt">
+      <created>1725931708625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931708625</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add Character.kt">
+      <created>1725931738594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931738594</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add Constants Literal.kt">
+      <created>1725931779451</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931779451</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add Fungsi Anggota pada String.kt">
+      <created>1725931829926</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931829926</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add komentar.kt">
+      <created>1725931941800</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931941800</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add Konversi Eksplisit.kt">
+      <created>1725931975172</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931975172</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add literal.kt">
+      <created>1725932199275</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725932199275</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add MainApp.kt">
+      <created>1725932306288</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725932306288</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add Penerapan Konversi Eksplisit pada Char.kt">
+      <created>1725932417835</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725932417835</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add penerapan string.kt">
+      <created>1725932514198</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725932514198</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add Perintah Masukan di Kotlin.kt">
+      <created>1725932644125</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725932644125</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add Program Caesar Chiper.kt">
+      <created>1725932741031</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725932741031</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add Program Kalkulator Sederhana.kt">
+      <created>1725932852576</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725932852576</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,7 +235,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starter Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starter Project" />
+    <MESSAGE value="add blok.kt" />
+    <MESSAGE value="add boolean.kt" />
+    <MESSAGE value="add Character.kt" />
+    <MESSAGE value="add Constants Literal.kt" />
+    <MESSAGE value="add Fungsi Anggota pada String.kt" />
+    <MESSAGE value="add komentar.kt" />
+    <MESSAGE value="add Konversi Eksplisit.kt" />
+    <MESSAGE value="add literal.kt" />
+    <MESSAGE value="add MainApp.kt" />
+    <MESSAGE value="add Penerapan Konversi Eksplisit pada Char.kt" />
+    <MESSAGE value="add penerapan string.kt" />
+    <MESSAGE value="add Perintah Masukan di Kotlin.kt" />
+    <MESSAGE value="add Program Caesar Chiper.kt" />
+    <MESSAGE value="add Program Kalkulator Sederhana.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Program Kalkulator Sederhana.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
